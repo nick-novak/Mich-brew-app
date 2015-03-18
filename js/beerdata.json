@@ -1,0 +1,98 @@
+[
+  {
+    "brewery":"Atwater",
+    "beer":"Dirty Blonde",
+    "shortname":"dirty_blonde",
+    "abv": "4.2",
+    "ibu": "10",
+    "type":"blonde",
+    "availability":"year-round",
+    "description":"Atwater Dirty Blonde is brewed to be a bright straw color, lightly sweet, with wheat added to creat a crispness at the back of the pallete. Crushed Orange Peel and Coriander are subtly added to the final stage of the hot side of the brewing process, the whirlpool, which lend to the clean heady aroma"
+  },
+  {
+  	"brewery":"Atwater",
+  	"beer":"Vanilla Java Porter",
+  	"shortname":"vanilla_java_porter",
+    "abv": "5.50",
+    "ibu": "12",
+    "type":"porter",
+    "availability":"year-round",
+  	"description":"With a beautifully crafted, copper cored, English Style Porter at its heart, Atwater's Vanilla Java Porter tips its hat to the modern audience with the addition of vanilla and coffe that is locally brewed cold to eliminate burnt flavors. The beer, vanilla & coffee tumble together, enhancing the smooth nature of each."
+  },
+  {
+    "brewery":"Atwater",
+    "beer":"Decadent Dark Chocolate Ale",
+    "shortname":"decadent_dark_chocolate_ale",
+    "abv": "5.5",
+    "ibu": "11",
+    "type":"ale",
+    "availability":"year-round",
+    "description":"Holding ture to the Northern English tradition, the Decadent Dark CHocolate Ale has at its foundation a nutty profile with a round mouthfeel. Added is a Chocolate Extract consisting of three blended choclates of varied depth. The result is a rich, but not overtly sweet, experience for both the beer and the chocolate enthusiast."
+  },
+   {
+    "brewery":"Liberty St.",
+    "beer":"Liberty One Porter",
+    "shortname":"ph",
+    "abv": "7.0",
+    "ibu": "50",
+    "type":"porter",
+    "history":"none",
+    "availability":"year-round",
+    "description":"This is our first year anniversary ale that won a medal three years in a row at the World Expo of Beer. In 2009, and 2011 as the base beer for the Tart Cherry Porter, and in 2010 on it's own in the Porter category."
+  },
+  {
+    "brewery":"Founders",
+    "beer":"All Day IPA",
+    "shortname":"ph",
+    "abv": "4.7",
+    "ibu":"42",
+    "type":"ipa",
+    "history":"none",
+    "availability":"year-round",
+    "description": "The beer you’ve been waiting for. Keeps your taste satisfied while keeping your senses sharp. An all-day IPA naturally brewed with a complex array of malts, grains and hops. Balanced for optimal aromatics and a clean finish. The perfect reward for an honest day’s work and the ultimate companion to celebrate life’s simple pleasures."
+  },
+  {
+    "brewery":"Founders",
+    "beer":"Dirty Bastard",
+    "shortname":"ph",
+    "abv": "8.5",
+    "ibu":"50",
+    "type":"ale",
+    "history":"none",
+    "availability":"year-round",
+    "description": "So good it’s almost wrong. Dark ruby in color and brewed with seven varieties of imported malts. Complex in finish, with hints of smoke and peat, paired with a malty richness and a right hook of hop power to give it the bad attitude that a beer named Dirty Bastard has to live up to. Ain’t for the wee lads."
+  },
+  {
+    "brewery":"Founders",
+    "beer":"Centennial IPA",
+    "shortname":"ph",
+    "abv": "7.2",
+    "ibu":"65",
+    "type":"ipa",
+    "history":"none",
+    "availability":"year-round",
+    "description": "Get ready to bask in the glory of the frothy head’s floral bouquet. Relish the citrus accents from the abundance of dry hopping. This one’s sweet, yet balanced. Malty undertones shake hands with the hop character for a finish that never turns too bitter."
+  },
+  {
+    "brewery":"Founders",
+    "beer":"Pale Ale",
+    "shortname":"ph",
+    "abv": "5.4",
+    "ibu":"35",
+    "type":"pale ale",
+    "history":"none",
+    "availability":"year-round",
+    "description": "A testament to Cascade hops in a bottle, this medium-bodied pale ale has a refreshing citrus flavor and a distinctive floral hop aroma due to the aggressive addition of hops during fermentation. You’ll notice a slight malty sweetness with a balanced hop finish. Perfect to enjoy anytime, anywhere."
+  },
+  {
+    "brewery":"Founders",
+    "beer":"Porter",
+    "shortname":"ph",
+    "abv": "6.5",
+    "ibu":"45",
+    "type":"pale ale",
+    "history":"none",
+    "availability":"year-round",
+    "description": "A testament to Cascade hops in a bottle, this medium-bodied pale ale has a refreshing citrus flavor and a distinctive floral hop aroma due to the aggressive addition of hops during fermentation. You’ll notice a slight malty sweetness with a balanced hop finish. Perfect to enjoy anytime, anywhere."
+  }
+]

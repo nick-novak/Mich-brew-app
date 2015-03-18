@@ -1,0 +1,55 @@
+[
+  {"Atwater":[
+    {
+    "beer":"Dirty Blonde",
+    "shortname":"dirty_blonde",
+    "abv": "4.2",
+    "ibu": "10",
+    "type":"blonde",
+    "history":"Distinctly American, Blonde Ales are descendant of the German Kolsch Styles. With Blonde refering to the pale straw to golden hues, these ales often tote a sweeter maltiness, with light estery or fruity notes.",
+    "description":"Atwater Dirty Blonde is brewed to be a bright straw color, lightly sweet, with wheat added to creat a crispness at the back of the pallete. Crushed Orange Peel and Coriander are subtly added to the final stage of the hot side of the brewing process, the whirlpool, which lend to the clean heady aroma"},
+    {
+    "beer":"Vanilla Java Porter",
+    "shortname":"vanilla_java_porter",
+    "abv": "5.50",
+    "ibu": "12",
+    "type":"porter",
+    "shortdescript":"ABV 5.50% IBU 12 Style: English Porter / Spiced Ale Color: Deep Brown",
+    "history":"Oringally blended for the working class in Central London, English Style Porters give nod to the masses, mixing traditional old style ales with more modern ales. While relatively old style ales with more modern ales. While relatively dark, English Style Porters eschew burnt flavors for more mellow profiles.",
+    "description":"With a beautifully crafted, copper cored, English Style Porter at its heart, Atwater's Vanilla Java Porter tips its hat to the modern audience with the addition of vanilla and coffe that is locally brewed cold to eliminate burnt flavors. The beer, vanilla & coffee tumble together, enhancing the smooth nature of each."},
+    {
+      "beer":"Decadent Dark Chocolate Ale",
+    "shortname":"decadent_dark_chocolate_ale",
+    "abv": "5.5",
+    "ibu": "11",
+    "type":"ale",
+    "shortdescript":"5.5% ABV – 11 IBU Style: Strong Brown / Chocolate Ale Color: Brown",
+    "history":"Oringally blended for the working class in Central London, English Style Porters give nod to the masses, mixing traditional old style ales with more modern ales. While relatively old style ales with more modern ales. While relatively dark, English Style Porters eschew burnt flavors for more mellow profiles.",
+    "description":"Holding ture to the Northern English tradition, the Decadent Dark CHocolate Ale has at its foundation a nutty profile with a round mouthfeel. Added is a Chocolate Extract consisting of three blended choclates of varied depth. The result is a rich, but not overtly sweet, experience for both the beer and the chocolate enthusiast."}
+  ]},
+
+   {"Liberty St.":[
+   {
+    "beer":"Liberty One Porter",
+    "shortname":"ph",
+    "abv": "7.0",
+    "ibu": "50",
+    "type":"porter",
+    "shortdescript":"7.0% ABV – 026 - 50 IBU Color: Brown",
+    "history":"none",
+    "description":"This is our first year anniversary ale that won a medal three years in a row at the World Expo of Beer. In 2009, and 2011 as the base beer for the Tart Cherry Porter, and in 2010 on it's own in the Porter category."}
+  }]
+
+
+  {
+    "brewery":"Founders",
+    "beer":"All Day IPA",
+    "shortname":"ph",
+    "abv": "4.7",
+    "ibu":"42",
+    "type":"ipa",
+    "shortdescript":"7.0% ABV – 026 - 50 IBU Color: Brown",
+    "history":"none",
+    "description": "The beer you’ve been waiting for. Keeps your taste satisfied while keeping your senses sharp. An all-day IPA naturally brewed with a complex array of malts, grains and hops. Balanced for optimal aromatics and a clean finish. The perfect reward for an honest day’s work and the ultimate companion to celebrate life’s simple pleasures."
+  }
+]

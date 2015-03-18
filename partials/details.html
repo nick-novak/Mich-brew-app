@@ -1,0 +1,12 @@
+<section class="beerinfo">
+  <div class="beer cf" ng-model="beer">
+      <a href="index.html">&laquo; Back to search</a>
+    <div class="info">
+      <img ng-src="img/{{beer[whichItem].shortname}}_tn.jpg" alt="Photo of {{beer[whichItem].name}}">
+        <h1>{{beer[whichItem].beer}}</h1>
+      <div class="bio">{{beer[whichItem].description}}</div>
+    </div>
+  </div>
+    <a href="#/details/{{prevItem}}" class="btn btn-left">&lt;</a>
+    <a href="#/details/{{nextItem}}" class="btn btn-right">&gt;</a>
+</section>

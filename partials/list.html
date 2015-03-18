@@ -1,0 +1,35 @@
+<section class="artistpage">
+  <div class="search">
+    <h1>Michigan Beer Directory</h1>
+    <label>search: </label>
+    <input ng-model="query" placeholder="Search for brews" autofocus>
+    <div class="searchBy">
+      <label class="formgroup">by:
+        <select ng-model="beerOrder">
+          <option value="name">Name</option>
+          <option value="type">type</option>
+        </select>
+      </label>
+
+<!--       <label class="formgroup">
+        <input type="radio" ng-model="direction" name="direction" checked>
+        ascending
+       </label>
+      <label class="formgroup">
+        <input type="radio" ng-model="direction" name="direction" value="reverse">
+        descending
+      </label> -->
+    </div>   
+  </div>
+  <ul class="beerlist grid columns-4" >
+    <li ng-animate="animate" class="beer cf" ng-repeat="item in beer | filter: query | orderBy: beerOrder">
+      <a href="#/details/{{beer.indexOf(item)}}">
+        <img ng-src="img/{{item.shortname}}_tn.jpg" alt="Photo of {{item.name}}">
+        <div class="info">
+          <h3>{{item.beer}}</h3>
+          <h3>ABV: {{item.abv}} IBU: {{item.ibu}}</h3>
+        </div>
+      </a>
+    </li>
+  </ul>  
+</section>

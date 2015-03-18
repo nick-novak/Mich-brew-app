@@ -1,0 +1,28 @@
+{
+  "convertHtml": {
+    "relativePaths": false
+  },
+  "customRubyPath": null,
+  "debug": false,
+  "domain": null,
+  "followLeader": false,
+  "lintScripts": false,
+  "modelSource": null,
+  "preprocessorLocations": ["styles/sass"],
+  "preprocessorScriptOutput": "css",
+  "preprocessorStyleOutput": "css",
+  "projectDescription": "My project description",
+  "projectName": "Angular ref",
+  "publishedId": null,
+  "serverHostname": null,
+  "serverPort": null,
+  "simpleModePartnerServer": null,
+  "templateDefaultLayout": "layout",
+  "templateDefaultPage": "index",
+  "templateDirectory": "templates",
+  "type": "simple",
+  "useCompass": true,
+  "sass": {
+    "globbing": true
+  }
+}
